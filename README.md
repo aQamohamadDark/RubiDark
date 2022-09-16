@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![icon](https://github.com/aQamohamadDark/RubiDark/blob/main/icon.jpg)
+</div>
 
 # install 
 
