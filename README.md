@@ -18,4 +18,4 @@ from RubiDark.client import RoBoT
 BoT = RoBoT("ATUH")
 ```
 
-#   channell BoT Rubika :
+#  DaRk BoT Rubika ! 
