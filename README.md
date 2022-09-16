@@ -1,4 +1,4 @@
-# Rubika Client for python 3
+# Rubika Client for python
 
 <div align="center">
 
