@@ -18,9 +18,8 @@ from RubiDark.client import RoBoT
 BoT = RoBoT("ATUH")
 ```
 
-<b> - DaRk BoT Rubika !</b>
-
+<b>DaRk BoT Rubika !</b>
     <br>
-    <a href="https://rubika.ir/DARK_BOT_RUBIKA">
-        channell Rubika !.
+    <a href="https://rubikalib.github.io">
+        Homepage
     </a>
