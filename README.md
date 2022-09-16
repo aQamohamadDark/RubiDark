@@ -7,7 +7,8 @@
 
 # install 
 
-```pip install RubiDark```
+```python
+pip install RubiDark```
 
 #  import
 
