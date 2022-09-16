@@ -4,10 +4,7 @@
 </div>
 
 <b>Rubika Bot DARK | Library for Python | dark</b>
-    <br>
-    <a href="https://rubika.ir/DARK_BOT_RUBIKA">
-         Rubika
-    </a>
+
 
 # install 
 
@@ -22,4 +19,7 @@ BoT = RoBoT("ATUH")
 ```
 
 # - DaRk BoT Rubika !
-
+    <br>
+    <a href="https://rubika.ir/DARK_BOT_RUBIKA">
+        channell Rubika !
+    </a>
