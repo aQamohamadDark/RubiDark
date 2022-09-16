@@ -7,7 +7,7 @@
 
 ```pip install RubiDark```
 
-# exmaple 
+#  import
 
 ```python 
 from RubiDark.client import RoBoT
@@ -15,4 +15,4 @@ from RubiDark.client import RoBoT
 BoT = RoBoT("")
 ```
 
-# dark
+# DaRk BoT Rubika !
