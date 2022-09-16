@@ -6,7 +6,7 @@
 <b>Rubika Bot Self Library for Python</b>
     <br>
     <a href="https://rubika.ir/DARK_BOT_RUBIKA">
-        - channell Rubika
+                channell Rubika
     </a>
 
 # install 
