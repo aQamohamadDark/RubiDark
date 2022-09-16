@@ -20,5 +20,5 @@ BoT = RoBoT("ATUH")
 
 <b>channell BoT Rubika :</b>
     <br>
-    <a href="https://rubikalib.github.io"> Rubika
+    <a href="https://rubikalib.github.io">Rubika
     </a>
