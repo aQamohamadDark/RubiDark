@@ -14,7 +14,7 @@
 ```python 
 from RubiDark.client import RoBoT
 
-BoT = RoBoT("")
+BoT = RoBoT("ATUH")
 ```
 
 # DaRk BoT Rubika !
